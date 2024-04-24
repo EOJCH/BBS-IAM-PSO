@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<appSettings>
+		<add key="UserId" value="MXAXX"/>
+		<add key="ApiPassword" value="aSKEiMbzqW#L]DQWs"/>
+		<add key="DBPassword" value="Sqlserver#$@14455"/>
+		<add key="CsvPath" value="C:\Users\EHBWD\Desktop\SUBRAMANYAM\Ldap_Loader\Softerra\GroupDetails.csv"/>
+		<add key="JarPath" value="C:\\Users\\EHBWD\\Desktop\\SUBRAMANYAM\\Projects\\LDAP_Loader\\Ldap_files\\LdapManagement.jar"/>
+		<add key="JarLdapInputPath" value="C:\\Temp\\LDAPGroups_Output\\"/>
+	</appSettings>
+</configuration>
